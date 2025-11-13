@@ -9,7 +9,7 @@ Both components demonstrate fundamental processing of frames, real-time metadata
 
 ---
 
-<img width="1429" height="818" alt="Image" src="https://github.com/user-attachments/assets/d6f2d54a-9f40-420a-a889-eb2b4f9b8792" />
+<img width="1898" height="897" alt="Image" src="https://github.com/user-attachments/assets/841baf70-f24c-450f-87b7-06166c17ad5b" />
 
 ---
 
