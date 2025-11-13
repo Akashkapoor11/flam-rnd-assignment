@@ -99,5 +99,3 @@ This project is built to cleanly demonstrate:
 
 
 
-### **1️⃣ Frame Flow (Android)**
-
