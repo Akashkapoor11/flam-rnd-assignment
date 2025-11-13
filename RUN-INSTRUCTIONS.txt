@@ -1,0 +1,21 @@
+How to run the parts in this package:
+
+1) Web viewer
+   cd web
+   npm install
+   npm run build
+   # serve files
+   npx http-server . -p 8080
+   # open http://127.0.0.1:8080
+
+2) Android app (skeleton)
+   - Open the 'android' directory in Android Studio.
+   - Import the Gradle project and build.
+   - This skeleton contains the CMakeLists and a native stub (no OpenCV).
+   - To add OpenCV, follow OpenCV Android SDK integration steps.
+
+3) JNI native code
+   - jni/native-lib.cpp is a minimal stub. Replace with OpenCV processing as required.
+
+Note: This ZIP is a minimal template that contains all required files for structure.
+Replace the native processing code with actual OpenCV code and integrate OpenCV SDK if you need full native processing.
